@@ -1,4 +1,4 @@
----
+can't update or downlod extension. when try to update it crash the app everytime i tried everything ---
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
